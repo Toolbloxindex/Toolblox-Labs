@@ -1,0 +1,2 @@
+Name,Configuration,Velocity off rod (m/s),Apogee (m),Velocity at deployment (m/s),Optimum delay (s),Max. velocity (m/s),Max. acceleration (m/s²),Time to apogee (s),Flight time (s),Ground hit velocity (m/s),Simulation Warnings
+Simulation 1,[B4-4],0.773,82.888,NaN,3.32,35.91,65.984,4.684,10.139,22.327,No recovery device defined in the simulation. Large angle of attack encountered (19.2). 
